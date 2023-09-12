@@ -1,2 +1,1 @@
-#logic gate software name:
-1.digital logic sim
+1. লজিক গেট সফ্টওয়্যার এর নাম : digital logic sim

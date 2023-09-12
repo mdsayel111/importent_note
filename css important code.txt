@@ -1,0 +1,1 @@
+1.বাটন এর বাদে disable attribute বাকি সবগুলা সিলেক্ট করার কোড : [type="button"]:not(:disable)
