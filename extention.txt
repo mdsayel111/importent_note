@@ -1,0 +1,5 @@
+1. একটি website এ কোন div এ কত টুকু  fontsize, font-family, color, spacing আছে  সেটা দেখার জন্য crome এর extention : Font Finder
+
+2. website এর component react component এর মত দেখার জন্য crome এর extention : React Devlopers Tool
+
+3. react component এবং বিভিন্ন জিনিস shotcut intelicens পাওয়ার জন্য vscode extention : Better ReactJS Code Snippet
